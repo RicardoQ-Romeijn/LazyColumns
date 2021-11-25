@@ -19,8 +19,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.rememberImagePainter
-import com.example.retrofitjsonjetpack.Films
-import com.example.retrofitjsonjetpack.MovieInfo
+import com.example.LazyColumn.Films
+import com.example.LazyColumn.MovieInfo
 
 @Composable
 fun SecondScreen(id: Int, filmID:String) {

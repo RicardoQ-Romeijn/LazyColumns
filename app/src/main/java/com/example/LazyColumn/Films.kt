@@ -1,4 +1,4 @@
-package com.example.retrofitjsonjetpack
+package com.example.LazyColumn
 
 data class Films(
     val description: String,

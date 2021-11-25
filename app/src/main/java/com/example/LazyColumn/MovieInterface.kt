@@ -1,4 +1,4 @@
-package com.example.retrofitjsonjetpack
+package com.example.LazyColumn
 
 import retrofit2.Call
 import retrofit2.Retrofit

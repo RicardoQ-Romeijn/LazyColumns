@@ -1,11 +1,11 @@
-package com.example.retrofitjsonjetpack
+package com.example.LazyColumn
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import com.example.retrofitjsonjetpack.ui.theme.RetrofitJsonJetpackTheme
+import com.example.LazyColumn.ui.theme.RetrofitJsonJetpackTheme
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.example.navigationcomposercondatos.SetUpNavGraph

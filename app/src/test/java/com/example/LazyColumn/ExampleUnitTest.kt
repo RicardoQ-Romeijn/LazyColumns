@@ -1,4 +1,4 @@
-package com.example.retrofitjsonjetpack
+package com.example.LazyColumn
 
 import org.junit.Test
 

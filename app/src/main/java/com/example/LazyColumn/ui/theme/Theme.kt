@@ -1,4 +1,4 @@
-package com.example.retrofitjsonjetpack.ui.theme
+package com.example.LazyColumn.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

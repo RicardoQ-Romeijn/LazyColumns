@@ -24,8 +24,8 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
 import coil.compose.rememberImagePainter
-import com.example.retrofitjsonjetpack.MovieInfo
-import com.example.retrofitjsonjetpack.MovieInstance
+import com.example.LazyColumn.MovieInfo
+import com.example.LazyColumn.MovieInstance
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
